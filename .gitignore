@@ -1,0 +1,15 @@
+.gitignore2
+__history
+__recovery
+__Previews
+*.~*
+*.#*
+*.local
+*.dcu
+*.identcache
+*.2007
+*.dcp
+*.bpl
+/Backup
+
+.BeFilter
